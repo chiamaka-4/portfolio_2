@@ -1,0 +1,52 @@
+body {
+  justify-content: space-around;
+}
+.wrap {
+  border-bottom: 1px solid rgb(178, 137, 137);
+  text-align: center;
+  padding: 3px;
+}
+.experiences {
+  margin: 50px;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+ul,
+li {
+  display: inline;
+  padding: 1px;
+  margin: 50px;
+  justify-items: center;
+  border-bottom: 1px solid black;
+  list-style: none;
+}
+
+.project {
+  display: inline;
+  margin-left: 400px;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.recent_projects {
+  display: inline;
+  margin-left: 400px;
+  margin: 10px;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid black;
+  justify-content: space-around;
+}
+
+.education_part {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+.lang_part {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+p {
+  align-items: center;
+  margin-left: 300px;
+}
